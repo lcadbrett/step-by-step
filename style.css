@@ -104,3 +104,10 @@ footer p {
 	}
 }
 
+@media (max-width: 400px) {
+	h1 {
+		font-size: 42px;
+		line-height: 48px;
+	}
+}
+
