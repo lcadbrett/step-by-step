@@ -105,6 +105,9 @@ footer p {
 }
 
 @media (max-width: 400px) {
+	header {
+		display: none;
+	}
 	h1 {
 		font-size: 42px;
 		line-height: 48px;
